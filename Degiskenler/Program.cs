@@ -14,4 +14,18 @@ namespace Degiskenler
         }
     }
 }
+/*Public: Her yerden erişilebilir.
 
+Örnek: Bir park herkes tarafından kullanılabilir
+
+Private: Sadece tanımlandığı sınıf içinde erişilebilir.
+
+Örnek:  Bir evin anahtarı sadece ev sahibinde bulunur.
+
+Protected: Sadece tanımlandığı sınıf ve ondan türetilen sınıflar tarafından erişilebilir.
+
+Örnek: Bir şirketin çalışan kimlik bilgileri, sadece çalışanlar ve yöneticiler tarafından görülebilir.
+
+Internal: Aynı proje (assembly) içinde erişilebilir, dışardan erişilemez.
+
+Örnek: Bir kütüphanedeki kitap takip sistemi sadece kütüphane çalışanları tarafından kullanılabilir, dışardan erişilemez.*/
